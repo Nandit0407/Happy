@@ -22,7 +22,7 @@ const submitBtn = document.getElementById('submit-btn');
 const resultDiv = document.getElementById('result');
 
 // Multiple secret codes (case-insensitive)
-const secretCodes = ['dukhi aatma', 'Baby', 'Meethi Rasmalai']; 
+const secretCodes = ['Puku']; 
 const nextPageUrl = 'main.html'; // URL of the new page
 
 // Ensure input is visible (not a password field)
